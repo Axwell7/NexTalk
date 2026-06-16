@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382397463075",
+    "project_id": "nextalk-5724e",
+    "storage_bucket": "nextalk-5724e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382397463075:android:2f7e69ed5adee8ba984f96",
+        "android_client_info": {
+          "package_name": "com.example.pulsechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnJ-jZhA22SnYdvALGZh_O-WgKT8T2R7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
