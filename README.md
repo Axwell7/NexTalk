@@ -1,4 +1,4 @@
-# pulsechat
+# nextalk
 
 A new Flutter project.
 
